@@ -1,12 +1,14 @@
 {
-    "image_name": "cyberdojofoundation/chapel_assert",
-    "display_name": "Chapel, assert",
-    "visible_filenames": [
-        "hiker.chpl",
-        "hikerTest.chpl",
-        "cyber-dojo.sh"
-    ],
-    "filename_extension": [ ".chpl" ],
-    "max_seconds": 20,
-    "tab_size": 2
+  "image_name": "cyberdojofoundation/chapel_assert:a8c845a",
+  "display_name": "Chapel, assert",
+  "visible_filenames": [
+    "hiker.chpl",
+    "hikerTest.chpl",
+    "cyber-dojo.sh"
+  ],
+  "filename_extension": [
+    ".chpl"
+  ],
+  "max_seconds": 20,
+  "tab_size": 2
 }
