@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/chapel_assert:a8c845a",
+  "image_name": "cyberdojofoundation/chapel_assert:10efc4b",
   "display_name": "Chapel, assert",
   "visible_filenames": [
     "hiker.chpl",
